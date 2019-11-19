@@ -1,7 +1,7 @@
 /target
 **/*.rs.bk
 
-partyamt/.idea
+.idea
 *.iml
 
 .env
