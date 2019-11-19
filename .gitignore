@@ -1,0 +1,7 @@
+/target
+**/*.rs.bk
+
+partyamt/.idea
+*.iml
+
+.env
