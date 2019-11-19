@@ -2,5 +2,5 @@
 CREATE TABLE groups
 (
     id   SERIAL UNIQUE PRIMARY KEY,
-    name VARCHAR(256)
+    name VARCHAR(256) NOT NULL
 );
