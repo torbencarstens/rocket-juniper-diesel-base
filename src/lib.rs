@@ -5,4 +5,5 @@ extern crate diesel;
 extern crate rocket;
 
 pub mod database;
+pub mod graphql;
 pub mod routes;
