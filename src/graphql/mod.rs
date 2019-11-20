@@ -11,6 +11,3 @@ impl juniper::Context for Context {}
 pub struct MutationRoot;
 
 pub struct QueryRoot;
-
-#[juniper::object(Context = Context)]
-impl MutationRoot {}
